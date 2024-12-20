@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\bin\Debug\Cifru_Caesar_Plus_n.exe.config
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\bin\Debug\Cifru_Caesar_Plus_n.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\bin\Debug\Cifru_Caesar_Plus_n.pdb
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\obj\Debug\Cifru_Caesar_Plus_n.csproj.AssemblyReference.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\obj\Debug\Cifru_Caesar_Plus_n.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\obj\Debug\Cifru_Caesar_Plus_n.exe
+C:\Users\David\Desktop\Facultate\INFO_Licenta\INFO An 2 Sem 1\Criptografie\Cifru_Caesar_Plus_n\Cifru_Caesar_Plus_n\obj\Debug\Cifru_Caesar_Plus_n.pdb
